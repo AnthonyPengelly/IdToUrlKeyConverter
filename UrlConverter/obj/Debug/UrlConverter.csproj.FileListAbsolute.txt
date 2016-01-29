@@ -1,0 +1,9 @@
+c:\users\agp\documents\visual studio 2015\Projects\UrlConverter\UrlConverter\bin\Debug\UrlConverter.exe.config
+c:\users\agp\documents\visual studio 2015\Projects\UrlConverter\UrlConverter\bin\Debug\UrlConverter.exe
+c:\users\agp\documents\visual studio 2015\Projects\UrlConverter\UrlConverter\bin\Debug\UrlConverter.pdb
+c:\users\agp\documents\visual studio 2015\Projects\UrlConverter\UrlConverter\obj\Debug\UrlConverter.csprojResolveAssemblyReference.cache
+c:\users\agp\documents\visual studio 2015\Projects\UrlConverter\UrlConverter\obj\Debug\UrlConverter.Form1.resources
+c:\users\agp\documents\visual studio 2015\Projects\UrlConverter\UrlConverter\obj\Debug\UrlConverter.Properties.Resources.resources
+c:\users\agp\documents\visual studio 2015\Projects\UrlConverter\UrlConverter\obj\Debug\UrlConverter.csproj.GenerateResource.Cache
+c:\users\agp\documents\visual studio 2015\Projects\UrlConverter\UrlConverter\obj\Debug\UrlConverter.exe
+c:\users\agp\documents\visual studio 2015\Projects\UrlConverter\UrlConverter\obj\Debug\UrlConverter.pdb
